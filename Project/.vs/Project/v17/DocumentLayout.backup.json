@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TJ\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38E5216-0E36-4565-8AB6-C5DD2C475F8F}|Project\\Project.vcxproj|C:\\Users\\TJ\\source\\repos\\Project\\Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D38E5216-0E36-4565-8AB6-C5DD2C475F8F}|Project\\Project.vcxproj|solutionrelative:Project\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\TJ\\source\\repos\\Project\\Project\\main.c",
+              "RelativeDocumentMoniker": "Project\\main.c",
+              "ToolTip": "C:\\Users\\TJ\\source\\repos\\Project\\Project\\main.c",
+              "RelativeToolTip": "Project\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T03:38:26.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
