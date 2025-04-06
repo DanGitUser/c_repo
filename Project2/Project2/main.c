@@ -81,5 +81,81 @@ int main(void)
     min = (sec % 3600) / 60;
 
     printf("%d seconds = %d hours and %d minutes and %d seconds\n", sec, hr, min, sec);
-}*/
+
+	    /*int Inputnum, n1, n2, n3, sumnum;
+    printf("Enter a three digit number: ");
+    scanf("%d", &Inputnum);
+    n1 = Inputnum / 100;
+    n2 = (Inputnum - (n1 * 100))/10;
+    n3 = Inputnum - (n2 * 10) - (n1 * 100);
+    sumnum = n1 + n2 + +n3;
+    printf("%d + %d + %d = %d\n", n1, n2, n3, sumnum);*/
+
+	/* int inputnum, n1, n2, n3, sum;
+	int mem;
+
+	printf("Enter a Three Digit Number: ");
+	scanf("%d", &inputnum);
+
+	mem = inputnum % 100;
+	n1 = inputnum / 100;
+	n2 = mem / 10;
+	n3 = mem % 10;
+
+	sum = n1 + n2 + n3;
+	printf("%d + %d + %d = %d\n", n1, n2, n3, sum); 
+	
+	    //printf("%c", 5 > 10 ? 'A' : 'B');
+
+    int x = 10;
+    x = x + 5;
+    x += 5;
+    //x = x % 7;
+    x %= 7;
+    printf("x : %d\n", x);
+	
+	/*
+    char input;
+    printf("Enter a character: ");
+    scanf("%c", &input);
+
+    if (isalpha(input)) {
+        printf("0\n");
+    }
+    if (isdigit(input)) {
+        printf("1\n");
+    } 
+    return 0;
+*/
+/*
+    char c;
+    printf("Enter a character :\n");
+    scanf("%c", &c);
+
+    if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+        printf("1\n");
+    else
+        printf("0\n");
+    printf("ASCII value of %c = %d", c, c);
+    return 0;
+ */
+ //Goal : Input a character to check if it's an alphabet.
+ //var, scanf, printf (optional)
+ //char ch;
+ //printf("Input a character >");
+// scanf("%c", &ch);
+	
+
+/*char num;
+printf("Enter a number :\n");
+scanf("%c", &num);
+
+if (num == '0')
+printf("Its a 0\n");
+else if (num >= '1')
+printf("It's a 양수\n");
+else if (num <= '-1')
+printf("It's a 음수\n");
+return 0;
+*/
 }
